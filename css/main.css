@@ -1,0 +1,31 @@
+nav{
+    background-color: blueviolet;
+
+    
+}
+.navbar-brand img{
+    width: 50px;
+}
+#header .navbar ul li a{
+    color: black;
+}
+body{
+    height: 4000px;
+}
+.profile .prof h1{
+    color:maroon;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    
+}
+.profile .prof{
+    padding: 50px 50px;
+    background-color: gray;
+}
+i{
+    font-size: 50px;
+    color: blueviolet;
+}
+i:hover{
+    color: crimson;
+}
